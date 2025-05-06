@@ -216,7 +216,7 @@ export default function ContactSalesForm() {
                 </div>
               </div>
               
-              <div>
+              {/* <div>
                 <label htmlFor="message" className="block text-white mb-2">
                   How can we help get your team started on Cursor? (Optional)
                 </label>
@@ -229,7 +229,7 @@ export default function ContactSalesForm() {
                   className="w-full p-3 bg-black border border-gray-600 rounded-md text-white"
                   placeholder="Any comments or questions"
                 ></textarea>
-              </div>
+              </div> */}
               
               <div className="flex space-x-4">
                 <button
